@@ -1,0 +1,16 @@
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\DatingAppV2.Entities.deps.json
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\DatingAppV2.Entities.runtimeconfig.json
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\DatingAppV2.Entities.runtimeconfig.dev.json
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\DatingAppV2.Entities.dll
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\ref\DatingAppV2.Entities.dll
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\bin\Debug\net5.0\DatingAppV2.Entities.pdb
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.csproj.AssemblyReference.cache
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.AssemblyInfoInputs.cache
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.AssemblyInfo.cs
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.dll
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\ref\DatingAppV2.Entities.dll
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.pdb
+C:\Users\jim\source\repos\DatingAppV2\DatingAppV2\DatingAppV2.Entities\obj\Debug\net5.0\DatingAppV2.Entities.genruntimeconfig.cache

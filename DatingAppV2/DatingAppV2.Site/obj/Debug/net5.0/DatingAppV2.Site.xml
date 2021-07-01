@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DatingAppV2.Site</name>
+    </assembly>
+    <members>
+        <member name="M:DatingAppV2.Site.Services.UserInformationAdminService.NotifyForNewUser(DatingAppV2.Entities.Dtos.RegisterUserDto)">
+            <summary>
+            This method uses MailLink service to sent email to access approver
+            with a link to the edit page where the approval can be set for the user.
+            </summary>
+            <param name="userInformation"></param>
+            <param name="hostingEnvironmentWebRootPath"></param>
+        </member>
+        <member name="M:DatingAppV2.Site.Services.UserResolverService.GetAssignedUserRoles(System.Collections.Generic.ICollection{DatingAppV2.Entities.Models.ApplicationRole})">
+            <summary>
+            This method builds the list that can be used to have populated
+            checkboxes on the view.
+            </summary>
+            <param name="selectedUserRoles"></param>
+            <returns></returns>
+        </member>
+        <member name="M:DatingAppV2.Site.Services.UserResolverService.AddRolesForUser(System.String,System.String[])">
+            <summary>
+            This method first deletes all the existing roles for a user then
+            adds the selected roles back in the database. This has to be done
+            with the intermediary table because .Net core doesn't support
+            Many to Many relationships yet.
+            </summary>
+            <param name="userInformationId"></param>
+            <param name="selectedUserRoles"></param>
+        </member>
+    </members>
+</doc>
